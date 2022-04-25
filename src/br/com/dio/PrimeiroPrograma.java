@@ -18,7 +18,8 @@ public class PrimeiroPrograma {
 		int b=3;
 		System.out.println("hello world! " + (a+b));
 
-	*/}
+	*/
+		}
 
 }
 
